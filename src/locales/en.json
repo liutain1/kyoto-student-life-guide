@@ -1,0 +1,337 @@
+{
+  "guides": [
+    {
+      "id": "bank",
+      "title": "Open a bank account",
+      "summary": "Get ready to pay rent, receive wages and manage everyday money.",
+      "sections": [
+        {
+          "title": "Why you may need an account",
+          "body": "A local account can receive wages or scholarships and pay rent and utilities by direct debit. Ask your school, employer or housing manager whether they require a particular bank before applying.",
+          "source": "bank"
+        },
+        {
+          "title": "Prepare your documents",
+          "body": "Prepare a valid residence card showing your current address, passport, student ID or enrollment certificate, and local contact details. A seal or additional documents may be required. Check name spelling, address and residence validity against the requirements for your chosen application method.",
+          "source": "bank"
+        },
+        {
+          "title": "From application to activation",
+          "body": "1. Check eligibility and documents. 2. Apply at a supported branch or through the bank’s app. 3. Complete checks about your purpose and student status. 4. Follow delivery and activation instructions and protect your PIN. Approval and same-day access are not guaranteed.",
+          "source": "bank"
+        },
+        {
+          "title": "Compare available banks",
+          "body": "Japan Post Bank is one option. Compare other banks suggested by your school or available near home. Check ATM access, fees, language support and overseas transfer conditions. Time in Japan and residency classification may affect available transactions.",
+          "source": "bank"
+        },
+        {
+          "title": "Cash cards versus payment cards",
+          "body": "A cash card mainly provides ATM access and may not work for shopping. Debit cards generally deduct purchases directly from your account; credit cards let you pay later. Opening an account does not automatically provide credit. Check each card’s features and eligibility.",
+          "source": "bank"
+        },
+        {
+          "title": "Keep your account safe",
+          "body": "Never lend or sell an account or card, and never share PINs or verification codes. Notify the bank after residence-card updates or a move. Check closure procedures before leaving Japan. If a card is lost, contact the bank through its official channels immediately.",
+          "source": "bank"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can I apply soon after arriving?",
+          "a": "Conditions vary by bank and application method. Ask the bank about your time in Japan, residence validity and student status before applying."
+        },
+        {
+          "q": "What if I need language support?",
+          "a": "Look for official multilingual guidance and ask about language support in advance. Your school may help you prepare. Do not agree to terms you do not understand."
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Health insurance & care",
+      "summary": "Understand enrollment, payments and what to do when you feel unwell.",
+      "sections": [
+        {
+          "title": "Understand National Health Insurance",
+          "body": "National Health Insurance shares covered medical costs through members’ premiums. Foreign residents registered in Kyoto who are not covered by employment-based insurance may need to enroll, depending on their status. Travel insurance does not necessarily remove the obligation to join.",
+          "source": "health"
+        },
+        {
+          "title": "Enroll at your ward office",
+          "body": "Contact the insurance and pension counter at your ward or branch office. Prepare your residence card and passport and ask about enrollment when registering your address. Notification is generally required within 14 days of becoming eligible; check Kyoto City’s current guidance for documents and exceptions.",
+          "source": "health"
+        },
+        {
+          "title": "Premiums and payment",
+          "body": "Premiums depend on factors such as previous-year income and household circumstances. Students are not automatically exempt. You may need to declare income even if it is zero; ask about reductions. Pay using the methods and deadlines on your notice, and contact the office early if payment is difficult.",
+          "source": "health"
+        },
+        {
+          "title": "Visiting a clinic",
+          "body": "Check the specialty, opening hours, appointment policy and language support first. Bring your My Number card registered for insurance use or a valid eligibility certificate, plus medication details. Verify coverage at reception, explain symptoms and allergies, pay after the visit, and take any prescription to a pharmacy.",
+          "source": "health"
+        },
+        {
+          "title": "Understand your share of costs",
+          "body": "For most students of typical university age, the usual patient share is 30% of covered treatment. Age and other circumstances can change the share. Non-covered care and some tests are treated differently, so this does not mean every bill is reduced to 30%. Ask the provider about coverage and estimated costs.",
+          "source": "health"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What if I do not have a My Number insurance card?",
+          "a": "A valid eligibility certificate can be used. Ask your ward office which document applies to you. The eligibility information notice alone is generally not sufficient."
+        },
+        {
+          "q": "What happens when I move or leave Japan?",
+          "a": "You may need to update your address or end enrollment. Check final payments and document return requirements with your ward office before moving out."
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "title": "Getting around Kyoto",
+      "summary": "Find your everyday route by bus, subway or bicycle.",
+      "sections": [
+        {
+          "title": "Take the city bus and subway",
+          "body": "Kyoto’s municipal subway has the Karasuma and Tozai lines, with city buses extending your reach. Check the stop, direction and last service, not just the destination. Follow the boarding and payment signs for your bus; allow extra time for crowds and road delays.",
+          "source": "transport"
+        },
+        {
+          "title": "Use an IC card",
+          "body": "Kyoto city buses and subway accept ICOCA and other supported interoperable transit IC cards. Check the balance of prepaid cards and tap as directed. Confirm coverage, commuter passes, discounts and replacement conditions with the operator.",
+          "source": "transport"
+        },
+        {
+          "title": "Buy or receive a bicycle",
+          "body": "Ask the seller about bicycle registration. For a used or gifted bicycle, check transfer documentation and the previous registration. Inspect brakes, lights and locks, and confirm that bicycle liability insurance covers you.",
+          "source": "bicycle"
+        },
+        {
+          "title": "Parking and liability insurance",
+          "body": "Use designated bicycle parking. Bikes left at stations or on pavements may be removed. Kyoto Prefecture requires applicable bicycle users to have liability coverage. Check whether an existing school or household policy covers you, and understand its scope. Registration is not insurance.",
+          "source": "bicycle"
+        },
+        {
+          "title": "Travel safely",
+          "body": "Cycle on the left of the road as a rule and obey signs and signals. Where pavement cycling is permitted, pedestrians have priority. Never ride after drinking or while using a phone. Use lights at night and wear a helmet. When walking, use crossings and follow signals.",
+          "source": "bicycle"
+        },
+        {
+          "title": "Compare your options",
+          "body": "Subway: more predictable travel times between stations. Bus: useful local coverage, but traffic can cause delays. Bicycle: flexible for short trips, with weather, parking and maintenance to consider. Walking: ideal for exploring your neighborhood. Compare current fares and pass conditions on official sites.",
+          "source": "transport"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can I use Suica in Kyoto?",
+          "a": "Yes, on Kyoto city buses and subway. This does not guarantee acceptance on every service; check the operator’s guidance."
+        },
+        {
+          "q": "What if my bicycle is removed?",
+          "a": "Check local notices and Kyoto City guidance for the storage location and recovery procedure. Confirm current identification requirements and charges before going."
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "title": "Working part-time",
+      "summary": "Know your permission, working-hour limits and rights before you start.",
+      "sections": [
+        {
+          "title": "Check your permission first",
+          "body": "With Student residence status, paid work generally requires advance permission for activities outside that status. Check the permission shown on your residence card or other documentation. Ask immigration or your school if unsure; being offered a job is not permission to work.",
+          "source": "work"
+        },
+        {
+          "title": "Hours and prohibited work",
+          "body": "Under general permission, work is normally limited to 28 hours per week across all jobs combined. During official long school holidays, the limit is up to 8 hours per day, subject to permission and labour rules. Work at adult-entertainment businesses is prohibited, including cleaning duties. Keep study your priority.",
+          "source": "work"
+        },
+        {
+          "title": "Find suitable work",
+          "body": "Food service, retail, hospitality and language-related jobs are possible options; check the duties and language level. Use school referrals, Hello Work or reputable job listings. Compare location, pay, travel costs, shifts and contract length. Be cautious about upfront registration fees and vague high-income offers.",
+          "source": "labor"
+        },
+        {
+          "title": "Prepare a résumé and interview",
+          "body": "Provide accurate contact details, education, experience and availability on your résumé. Include a photo if requested. Practice answers about days available, your motivation and Japanese customer-service skills. Be clear about your class schedule and permission limits rather than promising unavailable shifts.",
+          "source": "labor"
+        },
+        {
+          "title": "Know your employment rights",
+          "body": "Before starting, get written terms covering pay, hours, breaks, days off and leaving the job. Labour protections, including minimum wage rules, also apply to foreign workers. Keep payslips and time records. Contact the Kyoto Labour Bureau about unpaid wages or harassment, and check the current minimum wage.",
+          "source": "labor"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can I have two jobs?",
+          "a": "Your permission must cover the work, and the weekly cap is for all jobs combined, not each employer. Track every shift and tell employers about your limits."
+        },
+        {
+          "q": "Can I keep working under the same permission after graduation?",
+          "a": "General student permission applies while enrolled at an educational institution. Confirm your post-graduation status and work eligibility with immigration before continuing."
+        }
+      ]
+    },
+    {
+      "id": "living",
+      "title": "Everyday life & safety",
+      "summary": "Waste sorting, good neighbors and emergency essentials.",
+      "sections": [
+        {
+          "title": "Sort and dispose of waste",
+          "body": "Check Kyoto City’s current sorting guide for burnable waste, cans, glass and PET bottles, plastics and other categories. Collection days and locations vary by area and building, and some categories require designated bags. Ask your housing manager. Large items and certain appliances need separate disposal arrangements.",
+          "source": "living"
+        },
+        {
+          "title": "Understand your rental home",
+          "body": "Read payment dates, renewal and move-out conditions and house rules in your rental agreement. Photograph existing damage at move-in and report it to the manager. Check utility activation and internet arrangements. Contact management before attempting repairs or alterations.",
+          "source": "residence"
+        },
+        {
+          "title": "Be a considerate neighbor",
+          "body": "Keep conversation, music and laundry noise down late at night and early in the morning. Keep shared corridors and escape routes clear, and check visitor and smoking rules. If a dispute arises, ask your housing manager or school to help rather than escalating it directly.",
+          "source": "residence"
+        },
+        {
+          "title": "Everyday etiquette",
+          "body": "Queue, arrive on time and avoid phone conversations on public transport. Check signs about photography and removing shoes indoors. When unsure, a simple “Is this okay here?” can prevent misunderstandings while you learn local customs.",
+          "source": "residence"
+        },
+        {
+          "title": "Prepare for emergencies",
+          "body": "Identify evacuation places and routes near home and school. Keep water, food, regular medication and charging supplies ready. Follow official Kyoto City alerts during disasters. Call 119 for fire or an ambulance and 110 for urgent police assistance. Explain your location, what happened and whether anyone is injured.",
+          "source": "emergency"
+        },
+        {
+          "title": "Common ward-office procedures",
+          "body": "Mid-to-long-term residents must notify their municipality within 14 days of establishing a residence. Bring your residence card or applicable documents. Ask about health insurance, pension eligibility and student procedures, and My Number information. Moving or leaving Japan also requires relevant notifications.",
+          "source": "residence"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do I find my collection day?",
+          "a": "Check building notices, your housing manager and Kyoto City’s local collection information. Do not assume nearby bags mean your building uses the same schedule."
+        },
+        {
+          "q": "What if I cannot manage a procedure in Japanese?",
+          "a": "Ask the office about language or interpretation support beforehand and bring a written list of questions. Your school’s international-student support team may also help."
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "brand": "Kyoto Life Guide",
+    "siteName": "International Student Life Guide",
+    "home": "Home",
+    "about": "About the project",
+    "guides": "Life guides",
+    "checklist": "Your getting-started checklist",
+    "heroEyebrow": "KYOTO, YOUR NEW CHAPTER",
+    "heroTitle": "A new chapter in Kyoto.\nA little more peace of mind.",
+    "heroBody": "From your first bank account to your daily commute. Practical, easy-to-follow information to help international students feel at home in Kyoto.",
+    "start": "Explore the guides",
+    "checkCta": "Plan your first steps",
+    "searchLabel": "What would you like to know?",
+    "searchPlaceholder": "Search banking, insurance, part-time jobs…",
+    "search": "Search",
+    "popular": "Popular topics",
+    "exploreTitle": "Everyday questions. Clear next steps.",
+    "exploreBody": "Five practical guides to help you find your way.",
+    "readGuide": "Read guide",
+    "results": "Search results",
+    "noResults": "No guides found. Try another keyword.",
+    "clear": "Clear search",
+    "checkIntro": "Settle in one step at a time. Tick off each task as you complete it.",
+    "saved": "Your progress stays in this browser. No personal details needed.",
+    "storageError": "Browser storage is unavailable. Progress and language will only last for this session.",
+    "completed": "completed",
+    "stepsLabel": "FIRST STEPS",
+    "sdgTitle": "Small steps toward equal access.",
+    "sdgBody": "Language and unfamiliar systems should not stand in the way of a new start. Inspired by SDG 10, Reduced Inequalities, we make essential information available in three languages.",
+    "sdgGoal": "Reduced Inequalities",
+    "notice": "Requirements can change. Check the linked official sources before taking action.",
+    "footer": "A student project by KCGI Leadership Theory Group 39. This is not an official website of KCGI, Kyoto City or any public authority.",
+    "footerTag": "Study in Kyoto. Feel at home.",
+    "toc": "On this page",
+    "faq": "Frequently asked questions",
+    "source": "Check official guidance",
+    "updated": "Information reviewed",
+    "backTop": "Back to top",
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "language": "Language",
+    "related": "More life guides",
+    "feedbackTitle": "Help make this guide better.",
+    "feedbackBody": "Tell us what is unclear or what information you would like to see. Feedback will be collected through an external Google Form. Please do not share residence details, bank account numbers or other sensitive information.",
+    "feedbackReady": "Open feedback form",
+    "feedbackPending": "Survey coming soon",
+    "notFound": "Page not found",
+    "backHome": "Back to home",
+    "privacy": "Only language and checklist preferences are stored locally. No analytics or accounts are used.",
+    "lifeEyebrow": "LIFE IN KYOTO",
+    "purposeEyebrow": "OUR PURPOSE · SDGs 10",
+    "aboutEyebrow": "ABOUT OUR PROJECT",
+    "madeFor": "Made for a better start in Kyoto."
+  },
+  "checkItems": [
+    {
+      "id": "address",
+      "guide": "living",
+      "title": "Register your address",
+      "body": "Notify your ward office within 14 days of establishing your residence."
+    },
+    {
+      "id": "insurance",
+      "guide": "health",
+      "title": "Arrange health insurance",
+      "body": "Confirm eligibility and documents at your ward office."
+    },
+    {
+      "id": "account",
+      "guide": "bank",
+      "title": "Prepare a bank account",
+      "body": "Check which bank you need and its application conditions."
+    },
+    {
+      "id": "commute",
+      "guide": "transport",
+      "title": "Plan your commute",
+      "body": "Check IC cards, travel time and bicycle parking."
+    },
+    {
+      "id": "safety",
+      "guide": "living",
+      "title": "Check waste days and evacuation places",
+      "body": "Learn your building’s rules and prepare for emergencies."
+    }
+  ],
+  "about": {
+    "title": "Supporting your first steps in Kyoto.",
+    "intro": "The International Student Life Guide is an SDGs project by Group 39 of the Leadership Theory course at The Kyoto College of Graduate Studies for Informatics (KCGI).",
+    "sections": [
+      {
+        "title": "Why this project exists",
+        "body": "When you first arrive, information about everyday systems is spread across many websites and offices. Language barriers can make it harder to know where to start. This guide brings the essentials together to make that first step clearer."
+      },
+      {
+        "title": "Our goals and social purpose",
+        "body": "We aim to reduce gaps in access to information through Japanese, Simplified Chinese and English guidance linked to official sources. Feedback will guide improvements. User counts and satisfaction outcomes have not yet been measured or published."
+      },
+      {
+        "title": "The team and our information policy",
+        "body": "Created by KCGI Leadership Theory Group 39. This independent student information project does not represent the university or public authorities. Confirm individual circumstances with the responsible office. Team members’ sensitive personal information is not published."
+      },
+      {
+        "title": "Technology and privacy",
+        "body": "Built as a static application with React, Vite, Tailwind CSS and React Router. No account or server-side personal registration is required. Only language and checklist preferences are stored in localStorage. Review Google’s privacy terms when using an external survey."
+      }
+    ]
+  }
+}
